@@ -7,10 +7,27 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="FloatData.cs" t="Include" />
-          <e p="IntData.cs" t="Include" />
-          <e p="Jumps.cs" t="Include" />
-          <e p="PlayerMover.cs" t="Include" />
+          <e p="Damage" t="Include">
+            <e p="ClampFloatData.cs" t="Include" />
+            <e p="MonoEventsBehaviour.cs" t="Include" />
+            <e p="PlayerRespawn.cs" t="Include" />
+            <e p="TriggerEventsBehaviour.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="PlayerMover.cs" t="Include" />
+          </e>
+          <e p="ScriptibleObjects" t="Include">
+            <e p="FloatData.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+            <e p="Vector3Data.cs" t="Include" />
+          </e>
+          <e p="Shooting" t="Include">
+            <e p="BulletBehaviour.cs" t="Include" />
+            <e p="PlayerShooter.cs" t="Include" />
+          </e>
+          <e p="Trigger" t="Include">
+            <e p="TriggerBehaviour.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
