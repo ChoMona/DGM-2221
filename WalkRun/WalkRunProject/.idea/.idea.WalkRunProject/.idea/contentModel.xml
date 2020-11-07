@@ -13,6 +13,7 @@
             <e p="PlayerRespawn.cs" t="Include" />
             <e p="TriggerEventsBehaviour.cs" t="Include" />
           </e>
+          <e p="MouseEventsBehaviour.cs" t="Include" />
           <e p="Movement" t="Include">
             <e p="PlayerMover.cs" t="Include" />
           </e>
