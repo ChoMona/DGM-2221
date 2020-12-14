@@ -6,10 +6,45 @@
     <e p="C:\Users\Cho-Mona.000\Desktop\DGM\DGM-2221\DGM-2221\Knight Light" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Free HDR Skyboxes Pack" t="Include">
+          <e p="Example Scenes" t="Include">
+            <e p="Script" t="Include">
+              <e p="RotateCamera.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="Terrain Tools" t="Include">
+            <e p="0.1.0-preview" t="Include">
+              <e p="Terrain Assets" t="Include">
+                <e p="ThirdPartyNotices.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Scripts" t="Include">
-          <e p="FloatData.cs" t="Include" />
-          <e p="IntData.cs" t="Include" />
+          <e p="AI" t="Include">
+            <e p="AIBehaviour.cs" t="Include" />
+          </e>
+          <e p="ClampFloatData.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
+          <e p="FloatBehaviour.cs" t="Include" />
+          <e p="HUD" t="Include">
+            <e p="HUD.cs" t="Include" />
+          </e>
+          <e p="JumpPowerUp.cs" t="Include" />
+          <e p="MonoEventsBehaviour.cs" t="Include" />
+          <e p="PickUp.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
+          <e p="Respawn.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="FloatData.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+            <e p="Vector3Data.cs" t="Include" />
+          </e>
+          <e p="SetSpawnPoint.cs" t="Include" />
+          <e p="TriggerEventsBehaviour.cs" t="Include" />
         </e>
       </e>
       <e p="Knight Light.sln" t="IncludeFlat" />

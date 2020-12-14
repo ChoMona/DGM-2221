@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfc94464080e4634e8413ce4b315961f, type: 3}
-  m_Name: Fast speed
+  m_Script: {fileID: 11500000, guid: 693b04c42d76eab48b4ca0e1980a5b39, type: 3}
+  m_Name: DoubleJump
   m_EditorClassIdentifier: 
-  value: 0
+  value: 2

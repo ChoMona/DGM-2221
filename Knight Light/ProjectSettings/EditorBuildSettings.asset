@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hill.unity
+    guid: 2c06b6b3d317dc7409c759a79f98680c
+  - enabled: 1
+    path: Assets/Scenes/Crossroads.unity
+    guid: d755070cd799d864dbed9309952aded1
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 5582770294b202845801877730e91bcb
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: ef8a44c68ee76bf49897cdae1d081946
+  - enabled: 1
+    path: Assets/Scenes/MountainCity.unity
+    guid: a3f01799ef5025841a40a276eaf99d68
   m_configObjects: {}

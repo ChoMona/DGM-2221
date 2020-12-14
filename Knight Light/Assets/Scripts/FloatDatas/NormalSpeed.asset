@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36d9ab60c8cb2e0488aa56b24944b329, type: 3}
+  m_Script: {fileID: 11500000, guid: 356e43f45289a2346b9209312c258e1b, type: 3}
   m_Name: NormalSpeed
   m_EditorClassIdentifier: 
-  value: 0
+  value: -0.5
   lessThanZeroEvent:
     m_PersistentCalls:
       m_Calls: []
